@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## See App Live
-The project is live at [Varcel](https://cc-app-nu.vercel.app/)
+The project is live at [Varcel](https://currency-converter-app-zeta.vercel.app/)
 
 ## Available Scripts
 
