@@ -1,0 +1,10 @@
+.display_rate{
+    background-color: rgb(223, 223, 223);
+    width: 280px;
+    padding: 20px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+    border-radius: 15px;
+
+}
