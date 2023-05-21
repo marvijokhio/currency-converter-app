@@ -3,8 +3,9 @@ import './DisplayRate.css';
 
 function DisplayRate(props) {
   return (
+    
     <div className="display_rate" value={props.conv_rate} onChange={ev => props.onTheChange(ev.target.value)}>
-      {props.conv_rate} 
+      <h3>{props.conv_rate} </h3>
     </div>
   );
 }

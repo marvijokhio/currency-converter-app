@@ -27,6 +27,7 @@ function App() {
       }
       init();
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [conversion_rates]);
 
 
@@ -71,6 +72,7 @@ function App() {
         amount={amount2}
         currency={currency2} />
         <div>
+          <h2>Conversion Rate</h2>
           <DisplayRate conv_rate={"1 USD = "+ conversion_rates[currency2]+" "+ currency2 }/>
         </div>
     </div>)

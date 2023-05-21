@@ -1,9 +1,13 @@
+
 body{
-  background-color: #ffffff;
-  color: #3a3a3a;
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, red,purple);
+  color: #000000;
   padding: 50px;
 }
-h1{
-  color: #3a3a3a;
+h1, h2, h3, h4, h5, h6{
+  color: #000000;
   text-align: center;
 }
+
